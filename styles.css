@@ -1,0 +1,18 @@
+/* .attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); } */
+
+
+.main-container{
+    background-color: red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container{
+    background-color: blanchedalmond;
+}
+
+.content-container{
+    background-color: blue;
+}
