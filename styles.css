@@ -52,7 +52,7 @@ p, span {
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url("./image-product-desktop.jpg");
+    background-image: url("/image-product-desktop.jpg");
 }
 
 .container-content {
