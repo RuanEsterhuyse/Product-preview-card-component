@@ -127,3 +127,27 @@ p, span {
     background-color: hsl(159, 36%, 25%);
 }
 
+
+.attribution {
+    font-size: 2rem;
+    position: absolute;
+    bottom:3rem;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+  
+  
+  }
+  .attribution a {
+    color: hsl(159, 36%, 25%);
+    text-decoration: none;
+  }
+  
+  @media screen and (max-width: 845px), screen and (max-height: 50rem) {
+    .attribution {
+      display: none;
+    }
+  }
+  
